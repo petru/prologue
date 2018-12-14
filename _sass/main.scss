@@ -39,7 +39,7 @@ h1 {
 
 h2 {
   margin-top: 1rem;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
 }
 
 h3 {
@@ -184,7 +184,7 @@ code {
   color: #f14e32;
   background: #eee;
   padding: 2px 6px;
-  font-size: 13px;
+  font-size: 12px;
 }
 pre {
   display: block;
@@ -372,37 +372,27 @@ section {
     }
   }
 }
-/*
-@keyframes bounce {0% {
-    transform: translate3d( 0, -1000px, 0 );
-  }
-  60% {
-    transform: translate3d( 0, 25px, 0 );
-  }
-  75% {
-    transform: translate3d( 0, -10px, 0 );
-  }
-  90% {
-    transform: translate3d( 0, 5px, 0 );
-  }
-  100% {
-    transform: none;
-  }
+
+nav {
+  max-width: 500px;
+  margin: 0 auto;
 }
-@-webkit-keyframes bounce {0% {
-    -webkit-transform: translate3d( 0, -1000px, 0 );
-  }
-  60% {
-    -webkit-transform: translate3d( 0, 25px, 0 );
-  }
-  75% {
-    -webkit-transform: translate3d( 0, -10px, 0 );
-  }
-  90% {
-    -webkit-transform: translate3d( 0, 5px, 0 );
-  }
-  100% {
-    -webkit-transform: none;
-  }
+
+nav > ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
 }
-*/
+
+nav > ul > li {
+  float: left;
+}
+
+nav > ul > li a {
+  display: block;
+  margin-right: 1.4rem;
+  font-weight: bold;
+  text-decoration: none;
+  border-bottom: 2px solid #f9f9f9;
+}
