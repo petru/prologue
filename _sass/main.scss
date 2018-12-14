@@ -281,10 +281,6 @@ article {
       color: #0087BE;
     }
   }
-  a:hover {
-    color: #369;
-    border-color: #369;
-  }
 }
 .back {
   text-align: center;
@@ -396,3 +392,11 @@ nav > ul > li a {
   text-decoration: none;
   border-bottom: 2px solid #f9f9f9;
 }
+
+/* Links */
+a { color: #000; text-decoration: none; }
+a:hover { background-color: #fec923; color: #fff; text-decoration: none; }
+a:focus { background-color: #000; }
+
+p a { box-shadow: 0 1px 0 0 #000; }
+p a:hover { box-shadow: none; }
