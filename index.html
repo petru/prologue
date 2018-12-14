@@ -5,6 +5,8 @@ layout: default
 <section>
 	<h1>Hi there!</h1>
 	<p>You've reached my personal website. Now that you're here, make yourself at home. There's not much to look at (for now), but things are slowly moving along.</p>
+	<p>The design is based off a pre-existing theme and it's being updated continuously as I try out new things and iron out bugs.</p>
+	<p>You'll find a list of blogposts below soon enough.</p>
 	{% for post in site.posts %}
 		{% unless post.next %}
 			<h3 class="code">{{ post.date | date: '%Y' }}</h3>
