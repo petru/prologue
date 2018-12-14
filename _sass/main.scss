@@ -382,3 +382,11 @@ a:focus {
 
 p a { box-shadow: 0 1px 0 0 #fff; }
 p a:hover { box-shadow: none; }
+
+/* Code highlighting */
+
+.highlight {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 11px;
+  margin: 40px 0;
+}
