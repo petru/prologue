@@ -3,8 +3,6 @@ layout: page
 title: Useful things
 ---
 
-## Stuff
-
 This is a list of _free_ and useful things on the net, along with quick fixes to peculiar problems.
 
 ### Tutorials & References
