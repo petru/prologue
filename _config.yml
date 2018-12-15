@@ -9,7 +9,7 @@ url:                https://petrumadar.com # main url
 baseurl:            
 permalink:          :title # Post permalink
 timezone:           Europe/Bucharest # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-mathjax:            true  # enables support for mathjax - set to 'false' to disable
+mathjax:            false  # enables support for mathjax - set to 'false' to disable
 
 # Site Build
 highlighter:        rouge
