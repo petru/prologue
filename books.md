@@ -3,7 +3,7 @@ layout: page
 title: Books
 ---
 
-This is a list of books that I've read, mostly since 2014. There's a lot of Stephen King in there -- the man's a terrific writer.
+This is a list of books that I've read and were good enough to finish, mostly since 2014. There's a lot of Stephen King in there -- the man's a terrific writer.
 
 ## Non-fiction books
 
