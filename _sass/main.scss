@@ -89,6 +89,11 @@ blockquote {
   left: -24rem;
   width: 3rem;
   margin: 0.1rem auto;
+  @media (max-width: 900px) {
+    position: static;
+    clear: both;
+    padding: 3rem 8rem 5rem 0rem;
+  }
   a {
     background: #ddd url("logo_wrapper.png");
     color: #000;
@@ -358,6 +363,7 @@ nav > ul {
 
 nav > ul > li {
   float: left;
+  background: #000;
 }
 
 nav > ul > li a {
