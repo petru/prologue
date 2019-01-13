@@ -7,7 +7,7 @@ logo_url:           https://avatars1.githubusercontent.com/u/176388?v=4 # Get it
 # Site Settings
 url:                https://petrumadar.com # main url
 baseurl:            
-permalink:          :title # Post permalink
+permalink:          /:title/ # Post permalink
 timezone:           Europe/Bucharest # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            false  # enables support for mathjax - set to 'false' to disable
 
