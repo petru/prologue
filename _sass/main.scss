@@ -92,7 +92,8 @@ blockquote {
   @media (max-width: 900px) {
     position: static;
     clear: both;
-    padding: 3rem 8rem 5rem 0rem;
+    padding: 1rem 8rem 5rem 0rem;
+    margin-top: -0.5rem;
   }
   a {
     background: #ddd url("logo_wrapper.png");
