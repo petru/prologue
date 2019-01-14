@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: About me
 ---
 
-Hello.
+I'm 28 and I live in Romania.
 
-This will be your About page. Anything about you, it should be written here in details. You may describe your bio here like who you are, what you do, your intention, social site hyperlinks and how people can contact you, etc.
+I've been working as a doctor since 2017, training in gastroenterology.
 
-**Less is more..**
+**More updates soon.**
