@@ -24,6 +24,7 @@ Title | Author | Year Published | Notes
 
 Title | Author | Year Published | Notes
 ---   | ---    | :---:  | ---
+**The Life We Bury** | Allen Eskens | 2014 |
 **Artemis** | Andy Weir | 2017 | The plot is only mildly interesting and the main character is hardly believable.
 **Authority** | Jeff VanderMeer | 2014 |
 **The Force** | Don Winslow | 2017 |
