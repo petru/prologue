@@ -12,7 +12,7 @@ This is a list of _free_ and useful things on the net, along with quick fixes to
 ### Linux
 
 * Unless you're using a wildly popular distro (Ubuntu, Fedora), your fonts probably don't look all that good. Fortunately, I've found a quick fix on [StackExchange](https://unix.stackexchange.com/a/226926). Create or replace the contents of your `~/.fonts.conf` with the following configuration:
-```
+```xml
     <?xml version='1.0'?>
     <!DOCTYPE fontconfig SYSTEM 'fonts.dtd'>
     <fontconfig>
