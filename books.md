@@ -9,6 +9,7 @@ This is a list of books that I've read and were good enough to finish, mostly si
 
 Title | Author | Year Published | Notes
 ---   | ---    | :---:  | ---
+**White** | Bret Easton Ellis | 2019 |
 **The Emperor of All Maladies: A Biography of Cancer** | Siddhartha Mukherjee | 2010 | An excellent resource on cancer history.
 **Homo Deus** | Yuval Noah Harari | 2016 |
 **Deep Work** | Cal Newport | 2016 | 
