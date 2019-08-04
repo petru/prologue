@@ -390,6 +390,9 @@ a:hover {
   background-color: #fec923; 
   color: #fff; 
   text-decoration: none; 
+  &.image {
+    background-color: #fff;
+  }
 }
 a:focus { 
   background-color: #000; 
