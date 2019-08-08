@@ -13,6 +13,8 @@ If you're into minimalism when it comes to websites, the part worth scavenging i
 
 Starting from scratch, I decided it to give the port a name of its own -- [McMurdo](https://en.wikipedia.org/wiki/McMurdo_Station). It's free for anyone who thinks that quality content comes before big fonts and flashy landing pages. Right now there are three color schemes to choose from: black, white and midnight. And you can easily create your own.
 
+Here's what the dark theme looks like:
+
 <a class="image" href="/assets/mcmurdo.png"><img src="/assets/mcmurdo.png"></a>
 
 Grab it from [my repo](https://github.com/petru/mcmurdo). Fork it. Tweak it. Improve it. And if you fix something, hit me with a pull request.
