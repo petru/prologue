@@ -5,11 +5,6 @@ layout: default
 <section>
 	<h1>Hi there!</h1>
 	<p>I'm a <b>gastroenterology resident</b> dabbling in words and code in my spare time.</p>
-	<p>I'm always looking for the perfect website and I've lost count of how many times I've revamped mine because I wasn't particularly happy with its design. The current one is loosely based off a pre-existing theme and it's being updated continuously as I try out new things and iron out bugs.
-		I prefer a simple, functional layout to flashy slideshows and ginormous text. WordPress would be overkill because I don't need a comments system and more maintenance.
-		So the natural choice here is sticking with Jekyll.
-	</p>
-	<p>There's not much to look at right now, but I'm slowly moving things along.</p>
 	{% for post in site.posts %}
 		{% unless post.next %}
 			<h3 class="code">{{ post.date | date: '%Y' }}</h3>
