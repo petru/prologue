@@ -9,6 +9,8 @@ This is a list of books that I've read and were good enough to finish, mostly si
 
 Title | Author | Year Published | Notes
 ---   | ---    | :---:  | ---
+**Can't Hurt Me** | David Goggins | 2018 |
+**Then It Fell Apart** | Moby | 2019 | Raw degeneracy.
 **White** | Bret Easton Ellis | 2019 |
 **The Emperor of All Maladies: A Biography of Cancer** | Siddhartha Mukherjee | 2010 | An excellent resource on cancer history.
 **Homo Deus** | Yuval Noah Harari | 2016 |
@@ -25,6 +27,7 @@ Title | Author | Year Published | Notes
 
 Title | Author | Year Published | Notes
 ---   | ---    | :---:  | ---
+**The Outsider** | Stephen King | 2018 | Just average.
 **The Rules of Attraction** | Bret Easton Ellis | 1987 |
 **The Life We Bury** | Allen Eskens | 2014 |
 **Artemis** | Andy Weir | 2017 | The plot is only mildly interesting and the main character is hardly believable.
