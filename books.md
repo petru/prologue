@@ -9,6 +9,7 @@ This is a list of books that I've read and were good enough to finish, mostly si
 
 Title | Author | Year Published | Notes
 ---   | ---    | :---:  | ---
+**A Brief History of Time** | Stephen Hawking | 1988 | 
 **Can't Hurt Me** | David Goggins | 2018 |
 **Then It Fell Apart** | Moby | 2019 | Raw degeneracy.
 **White** | Bret Easton Ellis | 2019 |
@@ -27,6 +28,9 @@ Title | Author | Year Published | Notes
 
 Title | Author | Year Published | Notes
 ---   | ---    | :---:  | ---
+**Pet Sematary** | Stephen King | 1983 | 
+**Figh Club** | Chuck Palahniuk | 1996 |  
+**American Gods** | Neil Gaiman | 2001 |
 **The Outsider** | Stephen King | 2018 | Just average.
 **The Rules of Attraction** | Bret Easton Ellis | 1987 |
 **The Life We Bury** | Allen Eskens | 2014 |
