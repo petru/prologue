@@ -45,3 +45,11 @@ This is a list of _free_ and useful things on the net, along with quick fixes to
 ```
     Don't forget to restart your browser and DE afterwards. I've successfully tested this on Slackware 14.2.
 * Firefox won't play H.264-encoded video on Slacwkware 14.2 by default. Facebook and Netflix deliver video this way. There's an easy fix for this--either compile `ffmpeg` from Slackbuilds with `X264=yes` or use [AlienBob's package](http://www.slackware.com/~alien/slackbuilds/ffmpeg/pkg64/14.2/) which already has this enabled.
+
+### Other Tips
+* A [way](https://stackoverflow.com/a/43012779) to make ``ctrl+` `` toggle between the terminal and the current editor in Visual Studio Code:
+```javascript
+// Toggle between terminal and editor focus
+{ "key": "ctrl+`", "command": "workbench.action.terminal.focus"},
+{ "key": "ctrl+`", "command": "workbench.action.focusActiveEditorGroup", "when": "terminalFocus"}
+```
