@@ -11,7 +11,7 @@ The web used to be _smaller_, not just by number of websites, but also by font s
 
 If you're into minimalism when it comes to websites, the part worth scavenging is the design itself. Updating the codebase for today's WordPress is too much of a headache for me. I'd done it a few years back, only to have it broken by the next WP release. And since I'd moved on to Jekyll for all my blogging needs, it made sense to port the design. Besides, I feel that most of today's WordPress users have little interest in minimalistic designs.
 
-Starting from scratch, I decided it to give the port a name of its own -- [McMurdo](https://en.wikipedia.org/wiki/McMurdo_Station). It's free for anyone who thinks that quality content comes before big fonts and flashy landing pages. Right now there are three color schemes to choose from: black, white and midnight. And you can easily create your own.
+Starting from scratch, I decided to give the port a name of its own -- [McMurdo](https://en.wikipedia.org/wiki/McMurdo_Station). It's free for anyone who thinks that quality content comes before big fonts and flashy landing pages. Right now there are three color schemes to choose from: black, white and midnight. And you can easily create your own.
 
 Here's what the dark theme looks like:
 
