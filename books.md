@@ -3,12 +3,13 @@ layout: page
 title: Books
 ---
 
-This is a list of books that I've read and were good enough to finish, mostly since 2014. There's a lot of Stephen King in there -- the man's a terrific writer.
+This is a list of books that I've read and were good enough to finish, mostly since 2014.
 
 ## Non-fiction books
 
 Title | Author | Year Published | Notes
 ---   | ---    | :---:  | ---
+**On the Move: A life** | Oliver Sacks | 2015 |
 **A Brief History of Time** | Stephen Hawking | 1988 | 
 **Can't Hurt Me** | David Goggins | 2018 |
 **Then It Fell Apart** | Moby | 2019 | Raw degeneracy.
